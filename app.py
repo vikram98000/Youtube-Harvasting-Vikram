@@ -27,6 +27,7 @@ try:
 
 
         #Channel_name = input("Enter channel name: ")
+        st.title("vikram")
         Channel_name = st.text_input("Enter channel name: ")
 
 
